@@ -1,0 +1,7 @@
+{
+  "name": "Contact Form",
+  "template_id": "template_contact",
+  "subject": "New message from {{from_name}}",
+  "to_email": "ram883082@gmail.com",
+  "html": "<h2>📩 New Contact Form Submission</h2>\n\n<p><b>🧑 Name:</b> {{from_name}}</p>\n<p><b>📧 Email:</b> {{from_email}}</p>\n<p><b>💬 Message:</b><br/> {{message}}</p>\n\n<hr>\n<p style=\"color: gray; font-size: 12px;\">\nThis email was sent via your website contact form.\n</p>"
+}
